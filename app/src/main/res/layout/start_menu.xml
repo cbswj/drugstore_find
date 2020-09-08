@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".start_menu">
+    <TextView
+        android:id="@+id/title_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#현재 열려있는"
+        android:fontFamily="@font/nanumbarungothic"
+        android:layout_marginTop="@dimen/account_title_sub_top"
+        android:layout_marginLeft="@dimen/account_title_sub_left"
+        android:textColor="#1795ff"
+        android:textSize="@dimen/account_title_sub_text"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/title_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="주변"
+            android:fontFamily="@font/nanumbarungothicbold"
+            android:layout_marginLeft="@dimen/account_title1_left"
+            android:textColor="#3eae02"
+            android:textSize="@dimen/account_title1_text"/>
+
+
+        <ImageView
+            android:layout_width="@dimen/drugstore_icon"
+            android:layout_height="@dimen/drugstore_icon"
+            android:layout_marginLeft="@dimen/view_height"
+            android:src="@drawable/medic"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/title_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="찾기"
+        android:layout_marginLeft="@dimen/account_title3_left"
+        android:fontFamily="@font/nanumbarungothicbold"
+        android:textColor="#3eae02"
+        android:textSize="@dimen/account_title3_text"/>
+
+    <Button
+        android:id="@+id/login_facebook_Button"
+        android:text="주변 약국 목록 보기"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/account_button_text"
+        android:fontFamily="@font/nanumbarungothic"
+        android:layout_marginTop="@dimen/account_facebook_top"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="@dimen/account_button_width"
+        android:layout_height="@dimen/account_button_height"
+        android:background="#3b5999"
+        />
+
+    <Button
+        android:id="@+id/login_naver_Button"
+        android:text="주변 약국 지도로 보기"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/account_button_text"
+        android:fontFamily="@font/nanumbarungothic"
+        android:layout_marginTop="@dimen/account_button_top"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="@dimen/account_button_width"
+        android:layout_height="@dimen/account_button_height"
+        android:background="#3eae02"
+        />
+
+
+    <TextView
+    android:id="@+id/login_sns_danger"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="GPS 사용 시 어떠한 흔적도 남지 않습니다."
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="@dimen/account_button_top"
+    android:fontFamily="@font/nanumbarungothic"
+    android:textColor="#d2d2d2"
+    android:textSize="@dimen/account_sns_danger"/>
+
+</LinearLayout>

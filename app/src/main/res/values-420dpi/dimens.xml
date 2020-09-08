@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="ToolbarHeight">50dp</dimen>
+
+    <dimen name="titleSize">18sp</dimen>
+
+    <dimen name="chatlist_text_size">13sp</dimen>
+
+    <dimen name="view_height">10dp</dimen>
+
+    <dimen name="gpsText">16sp</dimen>
+
+    <dimen name="drugstore_icon">50dp</dimen>
+
+    <dimen name="li_width">330dp</dimen>
+
+    <dimen name="li_height">52dp</dimen>
+
+    <dimen name="li_left">18.8dp</dimen>
+
+    <dimen name="li_text">13sp</dimen>
+
+    <dimen name="li_date">10sp</dimen>
+
+    <dimen name="li_img">30dp</dimen>
+
+    <dimen name="li_img_height">60dp</dimen>
+
+    <dimen name="li_img_left">17dp</dimen>
+
+    <dimen name="li_margin_top">3.2dp</dimen>
+
+    <dimen name="NaviHeight">60dp</dimen>
+
+    <dimen name="view_width">340dp</dimen>
+
+    <dimen name="gpsHeight">110dp</dimen>
+
+    <dimen name="gpsContentHeight">55dp</dimen>
+
+    <dimen name="gpsImgMargin">13dp</dimen>
+
+    <dimen name="gpsContentMarjinLeft">39dp</dimen>
+
+    <dimen name="gpsContentMarjinLeft_2">32.5dp</dimen>
+
+    <dimen name="mainConent">137dp</dimen>
+
+    <dimen name="mainMarginText">6.5dp</dimen>
+
+    <dimen name="mainwaterpark">16sp</dimen>
+
+    <dimen name="imageWidth">52dp</dimen>
+
+    <dimen name="trlist_img">65dp</dimen>
+
+    <dimen name="trlist_img_marginleft">18.8dp</dimen>
+
+    <dimen name="trlist_li_width">250dp</dimen>
+
+    <dimen name="trlist_margin">12dp</dimen>
+
+    <dimen name="trlist_text_margin">4.5dp</dimen>
+
+    <dimen name="trlist_text_title_margin">13dp</dimen>
+
+    <dimen name="trlist_textsize">16.9sp</dimen>
+
+    <dimen name="listview_margin">6.5dp</dimen>
+
+    <dimen name="category_li_height">26dp</dimen>
+
+    <dimen name="category_li_width">104dp</dimen>
+
+    <dimen name="category_li_margin">6.5dp</dimen>
+
+    <dimen name="category_li_rt_margin">20.8dp</dimen>
+
+    <dimen name="category_title">16.9sp</dimen>
+
+    <dimen name="category_title_margin">3.9dp</dimen>
+
+    <dimen name="category_title_width">78dp</dimen>
+
+    <dimen name="chatlist_margin">16.9dp</dimen>
+
+    <dimen name="chatlist_img">52dp</dimen>
+
+    <dimen name="chatlist_day_text">10sp</dimen>
+
+
+    <dimen name="chatlist_person_text_width">40dp</dimen>
+
+    <dimen name="chatlist_person_text_margin">20dp</dimen>
+
+    <dimen name="chatlist_title_text_margin">3.2dp</dimen>
+
+    <dimen name="profile_ccimg">130dp</dimen>
+
+    <dimen name="profile_ccimg_border">2.6dp</dimen>
+
+    <dimen name="profile_ccimg_top">52dp</dimen>
+
+    <dimen name="profile_textview_top">6.5dp</dimen>
+
+    <dimen name="profile_textview_size">23.4sp</dimen>
+
+    <dimen name="profile_li_height">52dp</dimen>
+
+    <dimen name="profile_li_top">26dp</dimen>
+
+    <dimen name="profile_li_text_left">26dp</dimen>
+
+    <dimen name="profile_li_text_width">280dp</dimen>
+
+    <dimen name="profile_li_text_size">20sp</dimen>
+
+    <dimen name="profile_li_img">6.5dp</dimen>
+
+    <dimen name="pro_profile_fr_height">190dp</dimen>
+
+    <dimen name="pro_profile_li_left">16dp</dimen>
+
+    <dimen name="pro_profile_li_top">20dp</dimen>
+
+    <dimen name="pro_profile_text">16sp</dimen>
+
+    <dimen name="pro_profile_edit_width">320dp</dimen>
+
+    <dimen name="pro_profile_edit_left">20dp</dimen>
+
+    <dimen name="pro_profile_view_width">380dp</dimen>
+
+    <dimen name="pro_profile_view_top">10dp</dimen>
+
+    <dimen name="pro_profile_danger_text">11sp</dimen>
+
+    <dimen name="pro_profile_danger_top">5dp</dimen>
+
+    <dimen name="pro_friend_button_text">12sp</dimen>
+
+    <dimen name="pro_friend_text_width">197dp</dimen>
+
+    <dimen name="pro_friend_ok_left">10dp</dimen>
+
+    <dimen name="pro_friend_button_width">46dp</dimen>
+
+    <dimen name="pro_friend_button_height">38dp</dimen>
+
+    <!--  여기서부터 login에 관련된것-->
+    <dimen name="login_title">16.9sp</dimen>
+
+    <dimen name="login_danger_title">14.3sp</dimen>
+
+    <dimen name="login_width">370dp</dimen>
+
+    <dimen name="login_side_margin">20.8dp</dimen>
+
+    <dimen name="login_top_margin">97.5dp</dimen>
+
+    <dimen name="login_danger_margin">6.5dp</dimen>
+
+    <dimen name="login_margin_button">26dp</dimen>
+
+    <dimen name="login_button">20.8sp</dimen>
+
+    <dimen name="login_button_left">13dp</dimen>
+
+    <dimen name="login_gender_margin">10dp</dimen>
+
+    <dimen name="login_gender_width">179dp</dimen>
+
+    <dimen name="account_title_sub_top">200dp</dimen>
+
+    <dimen name="account_title_sub_left">108dp</dimen>
+
+    <dimen name="account_title_sub_text">12sp</dimen>
+
+    <dimen name="account_title1_left">110dp</dimen>
+
+    <dimen name="account_title1_text">42sp</dimen>
+
+    <dimen name="account_title2_text">12sp</dimen>
+
+    <dimen name="account_title3_left">220dp</dimen>
+
+    <dimen name="account_title3_text">42sp</dimen>
+
+    <dimen name="account_facebook_top">120dp</dimen>
+
+    <dimen name="account_button_text">12sp</dimen>
+
+    <dimen name="account_button_top">5dp</dimen>
+
+    <dimen name="account_button_width">320dp</dimen>
+
+    <dimen name="account_button_height">50dp</dimen>
+
+    <dimen name="account_sns_danger">8sp</dimen>
+
+    <dimen name="account_email_top">20dp</dimen>
+
+    <dimen name="account_email_text">12sp</dimen>
+
+    <dimen name="login_top">10dp</dimen>
+
+    <dimen name="login_text">12sp</dimen>
+
+    <dimen name="pop_li_width">320dp</dimen>
+
+    <dimen name="pop_li_height">180dp</dimen>
+
+    <dimen name="pop_margin">20dp</dimen>
+
+    <dimen name="pop_title">18sp</dimen>
+
+    <dimen name="pop_content">16sp</dimen>
+
+    <dimen name="pop_button_litop">10dp</dimen>
+
+    <dimen name="pop_button_text">14sp</dimen>
+
+    <dimen name="pop_button_width">60dp</dimen>
+
+    <dimen name="pop_button_height">50dp</dimen>
+
+    <dimen name="login_back">135dp</dimen>
+
+    <!-- 여기까지가 로그인 관련 dimens -->
+
+    <dimen name="safe_list_margin">10dp</dimen>
+
+    <dimen name="safe_img">22dp</dimen>
+
+    <dimen name="safe_list_left">6.5dp</dimen>
+
+    <dimen name="safe_list_starleft">10.4dp</dimen>
+
+    <dimen name="facility_list_margintop">5dp</dimen>
+
+    <dimen name="facility_list_marginstart">16dp</dimen>
+
+    <dimen name="facility_list_titletext">20sp</dimen>
+
+    <dimen name="facility_list_contenttext">13sp</dimen>
+
+    <dimen name="library_list_li_width">330dp</dimen>
+
+    <dimen name="library_list_img_left">17dp</dimen>
+
+    <dimen name="chatroom_text_width">320dp</dimen>
+
+    <dimen name="chatroom_left">10dp</dimen>
+
+    <dimen name="chatroom_list_Top">3dp</dimen>
+
+    <dimen name="chatroom_list_Bottom">2dp</dimen>
+
+    <dimen name="chatroom_list_circleimg">35dp</dimen>
+
+    <dimen name="chatroom_list_margin">5dp</dimen>
+
+    <dimen name="chatroom_list_nickname_time">10sp</dimen>
+
+    <dimen name="chatroom_list_content">14sp</dimen>
+
+    <dimen name="chatlist_make_title">18sp</dimen>
+
+    <dimen name="chatlist_make_content">12sp</dimen>
+
+    <dimen name="chatlist_make_margin">10dp</dimen>
+
+    <dimen name="chatlist_make_date_width">90dp</dimen>
+
+    <dimen name="chatlist_make_date_height">20dp</dimen>
+
+    <dimen name="chatlist_make_button_text">15sp</dimen>
+
+    <dimen name="chatlist_make_top_margin">30dp</dimen>
+
+    <dimen name="chatroom_in_li_width">250dp</dimen>
+
+    <dimen name="chatroom_in_left">10dp</dimen>
+
+    <dimen name="chatroom_in_text">14sp</dimen>
+
+    <dimen name="chatroom_in_drawer_list_img">40dp</dimen>
+
+    <dimen name="chatroom_in_profile_top">20dp</dimen>
+
+    <dimen name="chatroom_in_profile_img">110dp</dimen>
+
+    <dimen name="chatroom_in_profile_img_top">405dp</dimen>
+
+    <dimen name="chatroom_in_profile_nickname">16sp</dimen>
+
+    <dimen name="chatroom_in_profile_bar_top">52dp</dimen>
+
+    <dimen name="chatroom_in_profile_set_top">40dp</dimen>
+
+    <dimen name="chatroom_in_profile_set_img">60dp</dimen>
+
+    <dimen name="chatroom_in_profile_set_left">80dp</dimen>
+
+
+</resources>
